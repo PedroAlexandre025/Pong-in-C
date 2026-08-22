@@ -1,0 +1,13 @@
+# Executáveis
+pong
+*.out
+
+# Arquivos objeto
+*.o
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.swp
+*~
